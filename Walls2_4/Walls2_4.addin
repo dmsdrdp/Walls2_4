@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Assembly>C:\Program Files\RevitAPITraining\Walls2_4.dll</Assembly>
+		<AddInId>A3851AA2-7793-45FE-BFA4-B494200BB97A</AddInId>
+		<FullClassName>Walls2_4.Main</FullClassName>
+		<VendorId>ADSK</VendorId>
+		<Text>Количество стен по этажам</Text>
+	</AddIn>
+</RevitAddIns>
